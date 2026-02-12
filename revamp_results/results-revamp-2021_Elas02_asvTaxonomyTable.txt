@@ -1,0 +1,640 @@
+ASV	Kingdom	Phylum	Class	Order	Family	Genus	Species
+ASV_1	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_100	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1001	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1002	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_1003	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus
+ASV_101	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_1010	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_1011	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1014	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1016	Eukaryota	Chordata	Actinopteri	Scombriformes	Nomeidae	NA	NA
+ASV_1019	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Isurus	Isurus oxyrinchus
+ASV_1024	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1026	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1028	Eukaryota	Chordata	Actinopteri	Scombriformes	Nomeidae	NA	NA
+ASV_103	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1030	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus retifer
+ASV_1035	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1039	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1040	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa pseudoharengus
+ASV_1048	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1050	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1052	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1054	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_1055	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1057	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1058	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_106	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1061	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1062	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1063	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1066	Eukaryota	Chordata	Chondrichthyes	Squaliformes	NA	NA	NA
+ASV_107	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1070	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1072	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1074	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_1078	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_108	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1084	Eukaryota	Chordata	Actinopteri	Cichliformes	NA	NA	NA
+ASV_1085	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1087	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1089	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_109	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1092	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1099	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_11	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_110	Eukaryota	Chordata	Actinopteri	Cichliformes	NA	NA	NA
+ASV_1102	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1106	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_1108	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_111	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1110	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1112	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_1115	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_112	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1122	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1123	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_1124	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1128	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_1129	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_113	Eukaryota	Chordata	Aves	NA	NA	NA	NA
+ASV_1135	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1137	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1140	Eukaryota	Chordata	Actinopteri	Cichliformes	NA	NA	NA
+ASV_1142	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1143	Eukaryota	Chordata	Actinopteri	Pleuronectiformes	Pleuronectidae	Microstomus	NA
+ASV_1144	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1148	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_115	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1150	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1152	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1158	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_116	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1160	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1164	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1170	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_1171	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1173	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Isurus	Isurus oxyrinchus
+ASV_1175	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1177	Eukaryota	Chordata	Actinopteri	Scombriformes	Nomeidae	NA	NA
+ASV_1182	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1184	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_1186	Eukaryota	Chordata	Actinopteri	Cichliformes	NA	NA	NA
+ASV_1190	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1191	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_1198	Eukaryota	Chordata	Actinopteri	Cyprinodontiformes	NA	NA	NA
+ASV_12	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_120	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1200	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1209	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1211	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1213	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_1215	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1219	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_122	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Isurus	Isurus oxyrinchus
+ASV_1224	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_123	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Triakis	Triakis semifasciata
+ASV_1232	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Isurus	Isurus oxyrinchus
+ASV_1233	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1237	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_1241	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1243	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_1244	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1246	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1247	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1249	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1252	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_1253	Eukaryota	Chordata	Actinopteri	Scombriformes	Nomeidae	NA	NA
+ASV_1254	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus retifer
+ASV_1258	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_1259	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_126	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1262	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1264	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1267	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1270	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1271	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1277	Eukaryota	Chordata	Actinopteri	Atheriniformes	NA	NA	NA
+ASV_128	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1282	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1286	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1287	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1288	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Isurus	Isurus oxyrinchus
+ASV_129	Eukaryota	Chordata	Chondrichthyes	Orectolobiformes	Ginglymostomatidae	Ginglymostoma	Ginglymostoma cirratum
+ASV_1290	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1294	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_13	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1301	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_1302	Eukaryota	Chordata	Actinopteri	Cypriniformes	NA	NA	NA
+ASV_1308	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_131	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_1310	Eukaryota	Chordata	Aves	Galliformes	Phasianidae	Meleagris	Meleagris gallopavo
+ASV_1312	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1317	Eukaryota	Chordata	Actinopteri	Sciaenidae__o	Sciaenidae	NA	NA
+ASV_1320	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1321	Eukaryota	Chordata	Actinopteri	Sciaenidae__o	Sciaenidae	NA	NA
+ASV_1323	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1324	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1329	Eukaryota	Chordata	Actinopteri	Siganidae__o	NA	NA	NA
+ASV_133	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1333	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1334	Eukaryota	Chordata	Actinopteri	Sciaenidae__o	Sciaenidae	Menticirrhus	Menticirrhus saxatilis
+ASV_1336	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1337	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1338	Eukaryota	Chordata	Actinopteri	Istiophoriformes	NA	NA	NA
+ASV_134	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1341	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1343	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1344	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1346	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_135	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_136	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1361	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1362	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1363	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1369	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1370	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1378	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_138	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1386	Eukaryota	Chordata	Actinopteri	Scombriformes	Nomeidae	NA	NA
+ASV_14	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_140	Eukaryota	Chordata	Mammalia	Primates	Hominidae	NA	NA
+ASV_1406	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Triakis	Triakis semifasciata
+ASV_1407	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1409	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_141	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1411	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1412	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1415	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1417	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_142	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1423	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1426	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_1429	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_1430	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1434	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_144	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1447	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_1450	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1451	Eukaryota	Chordata	Actinopteri	Salmoniformes	NA	NA	NA
+ASV_1457	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1458	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1465	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_1467	Eukaryota	Chordata	Actinopteri	Characiformes	NA	NA	NA
+ASV_1468	Eukaryota	Chordata	Actinopteri	Spariformes	Sparidae	NA	NA
+ASV_147	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1480	Eukaryota	Chordata	Actinopteri	Mugiliformes	NA	NA	NA
+ASV_1490	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1495	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus retifer
+ASV_1496	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus retifer
+ASV_1497	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1498	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1499	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_150	Eukaryota	Chordata	Actinopteri	Scombriformes	NA	NA	NA
+ASV_1500	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1501	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1502	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1504	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1506	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa mediocris
+ASV_1507	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa mediocris
+ASV_1509	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_152	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Isurus	Isurus oxyrinchus
+ASV_153	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_154	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_157	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_158	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_16	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_161	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_162	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_163	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_164	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_165	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_166	Eukaryota	Chordata	Actinopteri	Istiophoriformes	NA	NA	NA
+ASV_168	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_17	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_173	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_174	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_176	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_177	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_178	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_179	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_18	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_180	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_181	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_182	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_185	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_186	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_188	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_189	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_190	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_191	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_192	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Isurus	Isurus oxyrinchus
+ASV_193	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_196	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_198	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_200	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_201	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_203	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_204	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_207	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Isurus	Isurus oxyrinchus
+ASV_21	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_210	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_211	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_212	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_213	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_216	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_218	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_219	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_22	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Triakis	Triakis semifasciata
+ASV_220	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus retifer
+ASV_222	Eukaryota	Chordata	Actinopteri	Spariformes	Sparidae	NA	NA
+ASV_223	Eukaryota	Chordata	Actinopteri	Cichliformes	NA	NA	NA
+ASV_226	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_227	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_229	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_230	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_232	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_233	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_234	Eukaryota	Chordata	Chondrichthyes	Orectolobiformes	Orectolobidae	Orectolobus	Orectolobus japonicus
+ASV_235	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_237	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_238	Eukaryota	Chordata	Actinopteri	Scombriformes	Gempylidae	NA	NA
+ASV_24	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_240	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_242	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_243	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_245	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_246	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_25	Eukaryota	Chordata	Actinopteri	Scombriformes	Nomeidae	NA	NA
+ASV_250	Eukaryota	Chordata	Actinopteri	Scombriformes	Gempylidae	Rexea	NA
+ASV_252	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus
+ASV_257	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_258	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_26	Eukaryota	Chordata	Actinopteri	Cichliformes	NA	NA	NA
+ASV_260	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_261	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_262	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_264	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_266	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_267	Eukaryota	Chordata	Actinopteri	Scombriformes	Gempylidae	Rexea	NA
+ASV_268	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_269	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_270	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_271	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_273	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_275	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_277	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_278	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_28	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_280	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus retifer
+ASV_281	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_282	Eukaryota	Chordata	Actinopteri	Mugiliformes	NA	NA	NA
+ASV_283	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_286	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_287	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_288	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_289	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_29	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_290	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_291	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_293	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Triakis	Triakis semifasciata
+ASV_294	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_296	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_297	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_299	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_3	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_300	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_301	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_302	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	Squalus acanthias
+ASV_303	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_304	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_305	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_307	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_308	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Triakis	Triakis semifasciata
+ASV_309	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_31	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus
+ASV_311	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_312	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_316	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_317	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_318	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_319	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_323	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_324	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_330	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_333	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_336	Eukaryota	Chordata	Actinopteri	Scombriformes	Nomeidae	NA	NA
+ASV_338	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_339	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_341	Eukaryota	Chordata	Actinopteri	Cichliformes	NA	NA	NA
+ASV_342	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_351	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_352	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_353	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_354	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_355	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_357	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_358	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_36	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_361	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_364	Eukaryota	Chordata	Actinopteri	Istiophoriformes	NA	NA	NA
+ASV_365	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_366	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_367	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_368	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_37	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_370	Eukaryota	Chordata	Actinopteri	Scombriformes	Nomeidae	NA	NA
+ASV_372	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_374	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_375	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_380	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_381	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_384	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_385	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_388	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_389	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_39	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_395	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_396	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_397	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus retifer
+ASV_399	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_400	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_403	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_407	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_410	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_411	Eukaryota	Chordata	Actinopteri	Cichliformes	NA	NA	NA
+ASV_412	Eukaryota	Chordata	Actinopteri	Scombriformes	NA	NA	NA
+ASV_415	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_417	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_420	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_421	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_425	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_427	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_428	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_43	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_430	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_433	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_434	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_436	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa mediocris
+ASV_439	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_441	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_446	Eukaryota	Chordata	Actinopteri	Scombriformes	NA	NA	NA
+ASV_448	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_45	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_452	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_453	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_454	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_455	Eukaryota	Chordata	Actinopteri	Cichliformes	NA	NA	NA
+ASV_457	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_458	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_46	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_462	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_464	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_465	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_468	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_471	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_472	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_474	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_475	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_478	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_479	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_48	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_480	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_481	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_482	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_483	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_485	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_486	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_490	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_491	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_494	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_495	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_496	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_497	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_5	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_50	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_500	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_501	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_502	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_507	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_509	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus
+ASV_51	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_512	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_517	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_518	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_519	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_520	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_521	Eukaryota	Chordata	Actinopteri	Scombriformes	Nomeidae	NA	NA
+ASV_523	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_524	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus
+ASV_525	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_530	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_537	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Isurus	Isurus oxyrinchus
+ASV_539	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_541	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus
+ASV_544	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_547	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_549	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_55	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_556	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Triakis	Triakis semifasciata
+ASV_559	Eukaryota	Chordata	Actinopteri	Scombriformes	Nomeidae	NA	NA
+ASV_56	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_563	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus
+ASV_564	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_57	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_570	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_571	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_572	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_574	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_577	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_58	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_582	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_583	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_584	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus retifer
+ASV_585	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_587	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_588	Eukaryota	Chordata	Chondrichthyes	Orectolobiformes	Ginglymostomatidae	Ginglymostoma	Ginglymostoma cirratum
+ASV_590	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_599	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_6	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_60	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_600	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_601	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_603	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Isurus	Isurus oxyrinchus
+ASV_604	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_605	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_606	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_608	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_610	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_611	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_612	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_613	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_616	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus henlei
+ASV_619	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus henlei
+ASV_620	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_621	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_624	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_625	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_626	Eukaryota	Chordata	Actinopteri	Scombriformes	Gempylidae	NA	NA
+ASV_627	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_628	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	NA
+ASV_630	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_631	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus retifer
+ASV_633	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_638	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_641	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_643	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_645	Eukaryota	Chordata	Actinopteri	Cichliformes	NA	NA	NA
+ASV_650	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_651	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_652	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_654	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_655	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_656	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_657	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_659	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Triakis	Triakis semifasciata
+ASV_66	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_661	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_662	Eukaryota	Chordata	Actinopteri	Syngnathiformes	Syngnathidae	Syngnathus	NA
+ASV_663	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_664	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_666	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_668	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_67	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_672	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_674	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_678	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_679	Eukaryota	Chordata	Aves	NA	NA	NA	NA
+ASV_680	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_686	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_687	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_690	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_691	Eukaryota	Chordata	Actinopteri	Sphyraenidae__o	NA	NA	NA
+ASV_692	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_694	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_696	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_698	Eukaryota	Chordata	Actinopteri	Scombriformes	Nomeidae	NA	NA
+ASV_699	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_7	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus retifer
+ASV_70	Eukaryota	Chordata	Actinopteri	Istiophoriformes	NA	NA	NA
+ASV_701	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_702	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_705	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_708	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_709	Eukaryota	Chordata	Actinopteri	Cichliformes	NA	NA	NA
+ASV_710	Eukaryota	Chordata	Actinopteri	Sciaenidae__o	Sciaenidae	NA	NA
+ASV_711	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_714	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_715	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus retifer
+ASV_717	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_721	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_724	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_728	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_73	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa mediocris
+ASV_730	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_738	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_741	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_743	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_745	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_747	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_748	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_749	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_75	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_752	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_759	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_77	Eukaryota	Chordata	Actinopteri	Characiformes	NA	NA	NA
+ASV_770	Eukaryota	Chordata	Actinopteri	Cichliformes	NA	NA	NA
+ASV_773	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautogolabrus	Tautogolabrus adspersus
+ASV_774	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_777	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_779	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_78	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	NA
+ASV_780	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_781	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_784	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_788	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_789	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_790	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_792	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_794	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_796	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_797	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Scyliorhinidae	Scyliorhinus	Scyliorhinus retifer
+ASV_801	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Triakis	Triakis semifasciata
+ASV_807	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_808	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_811	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_815	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_819	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_821	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_825	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_826	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	Alosa pseudoharengus
+ASV_827	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_828	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_83	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_831	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_832	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_835	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_838	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_842	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_844	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_850	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_852	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_854	Eukaryota	Chordata	Actinopteri	Scombriformes	Gempylidae	Rexea	NA
+ASV_86	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_866	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_867	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_869	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_87	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_871	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Isurus	Isurus oxyrinchus
+ASV_872	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_873	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_875	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_876	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_877	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_880	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_882	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_884	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_885	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_886	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_887	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_89	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_890	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_897	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_899	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_9	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Alopiidae	Isurus	Isurus oxyrinchus
+ASV_901	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_906	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	NA
+ASV_908	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_911	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_915	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_919	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_92	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_921	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_925	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_932	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_933	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_934	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_940	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Triakis	Triakis semifasciata
+ASV_942	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_945	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_949	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_95	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_954	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_962	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_963	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_964	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_967	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_970	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_972	Eukaryota	Chordata	Actinopteri	Scombriformes	Nomeidae	NA	NA
+ASV_974	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_975	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_977	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_979	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_980	Eukaryota	Chordata	Actinopteri	Spariformes	Sparidae	NA	NA
+ASV_981	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_982	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_99	Eukaryota	Chordata	Actinopteri	Sciaenidae__o	Sciaenidae	NA	NA
+ASV_993	Eukaryota	Chordata	Actinopteri	Labriformes	Labridae	Tautoga	Tautoga onitis
+ASV_999	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea

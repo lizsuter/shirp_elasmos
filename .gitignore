@@ -3,3 +3,6 @@
 .RData
 .Ruserdata
 raw_data/
+figure/
+SRA_submission/
+Zenodo_submission/

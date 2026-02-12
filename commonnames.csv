@@ -1,0 +1,59 @@
+Taxon,CommonName,Taxon.CommonName,Color
+Rhinoptera bonasus,Cownose ray,Rhinoptera bonasus (Cownose ray),#F5C710
+Mustelus canis,Smooth dogfish,Mustelus canis (Smooth dogfish),gray
+Bathytoshia centroura,Roughtail stingray,Bathytoshia centroura (Roughtail stingray),#E73032
+Myliobatis freminvillei,Bullnose ray,Myliobatis freminvillei (Bullnose ray),#4DAD3F
+Leucoraja erinaceus,Little skate,Leucoraja erinaceus (Little skate),#3DA533
+Squalus acanthias,Spiny dogfish,Squalus acanthias (Spiny dogfish),#EC5439
+Rostroraja eglanteria,Clearnose skate,Rostroraja eglanteria (Clearnose skate),#8D9D5D
+Gymnura altavela,Spiny Butterfly Ray,Gymnura altavela (Spiny butterfly ray),#C29B7A
+Amblyraja radiata,Thorny skate,Amblyraja radiata (Thorny skate),#FCBA6C
+Leucoraja ocellata,Winter skate,Leucoraja ocellata (Winter skate),#97D176
+Neoraja iberica,Iberian pygmy skate,Neoraja iberica (Iberian pygmy skate),#AB8CC2
+Malacoraja kreffti,Krefft's ray,Malacoraja kreffti (Krefft's ray),#EB4748
+Isurus oxyrinchus,Mako shark,Isurus oxyrinchus (Mako shark),#957599
+Carcharias taurus,Sand tiger shark,Carcharias taurus (Sand tiger shark),#DE9E82
+Pteroplatytrygon violacea,Pelagic stingray,Pteroplatytrygon violacea (Pelagic stingray),#86C969
+Scyliorhinus retifer,Chain catshark,Scyliorhinus retifer (Chain catshark),#FE9E37
+Triakis semifasciata,Leopard shark,Triakis semifasciata (Leopard shark),#ED5253
+Ginglymostoma cirratum,Nurse shark,Ginglymostoma cirratum (Nurse shark),#E4DC99
+Orectolobus japonicus,Japanese wobbegong,Orectolobus japonicus (Japanese wobbegong),#E4211F
+Squalus sp.,Spurdogs,Squalus sp. (Spurdogs),#4B5F73
+Mustelus sp.,Mustelus sp.,Mustelus sp.,#6E8F8B
+Bathytoshia sp.,Short-tail stingrays,Bathytoshia sp. (Short-tail stingrays),#8B5A3C
+Rhinoptera sp.,Rhinoptera sp.,Rhinoptera bonasus (Cownose ray),#F5C710
+Pteroplatytrygon sp.,Pelagic stingray,Pteroplatytrygon violacea (Pelagic stingray),#86C969
+Unknown Bathytoshia (Genus),Short-tail stingrays,Bathytoshia sp. (Short-tail stingrays),#8B5A3C
+Unknown Mustelus (Genus),Mustelus sp.,Mustelus sp.,#6E8F8B
+Unknown Carcharhiniformes (Order),Ground sharks,Carcharhiniformes (Ground sharks),#6FB09C
+Unknown Carcharhinus (Genus),Requiem sharks,Carcharhinus (Requiem sharks),#B09C70
+Unknown Chondrichthyes (Class),Cartilaginous fishes,Chondrichthyes (Cartilaginous fishes),#A787C0
+Unknown Myliobatiformes (Order),Stingrays,Myliobatiformes (Stingrays),#7AC361
+Bathytoshia lata,Roughtail stingray,Bathytoshia centroura (Roughtail stingray),#E73032
+Unknown Squalus (Genus),Spurdogs,Squalus sp. (Spurdogs),#4B5F73
+Unknown Characiformes (Order),Characiformes,Characiformes,#B99B75
+Unknown Rhinoptera (Genus),Cownose ray,Rhinoptera bonasus (Cownose ray),#F5C710
+Unknown Cyprinodontiformes (Order),Cyprinodontiformes,Cyprinodontiformes,#FE850A
+Unknown Salmoniformes (Order),Salmoniformes,Salmoniformes,#589E40
+Unknown Squalidae (Family),Squalidae,Squalidae,#A79C6B
+Unknown Leucoraja (Genus),Hardnose skates,Leucoraja (Hardnose skates),#FE880F
+Unknown Rajidae (Family),Skates,Rajidae (Skates),#64A4CC
+Unknown Dasyatidae (Family),Whiptail stingrays,Dasyatidae (Whiptail stingrays),#A0CAE0
+Unknown Lamniformes (Order),Mackerel sharks,Lamniformes (Mackerel sharks),#ADDC86
+Unknown Myliobatidae (Family),Eagle rays,Myliobatidae (Eagle rays),#3A89BD
+Unknown Myliobatis (Genus),Eagle rays,Myliobatis (Eagle rays),#3A89BD
+Unknown Pteroplatytrygon (Genus),Pelagic stingray,Pteroplatytrygon violacea (Pelagic stingray),#86C969
+Mustelus,Mustelus sp.,Mustelus sp.,#6E8F8B
+Bathytoshia,Short-tail stingrays,Bathytoshia sp. (Short-tail stingrays),#8B5A3C
+Carcharhinus,Requiem sharks,Carcharhinus (Requiem sharks),#B09C70
+Squalus,Spurdogs,Squalus sp. (Spurdogs),#4B5F73
+Raja eglanteria,Clearnose skate,Rostroraja eglanteria (Clearnose skate),#8D9D5D
+Sphyrna zygaena,Smooth hammerhead,Sphyrna zygaena (Smooth hammerhead),#FF1493
+Carcharhinus brachyurus,Requiem sharks,Carcharhinus (Requiem sharks),#B09C70
+Unknown Carcharias (Genus),Sand tiger shark,Carcharias taurus (Sand tiger shark),#DE9E82
+Unknown Raja (Genus),Raja,Raja,#00B2EE
+Unknown Rajiformes (Order),Rajiformes,Rajiformes (Rajoids),#8B0A50
+Gymnura natalensis,Butterfly rays,Gymnura (Butterfly rays),#EE2C2C
+Carcharhinus plumbeus,Sandbar shark,Carcharhinus plumbeus (Sandbar shark),#9AC0CD
+Rhinoptera,Cownose ray,Rhinoptera bonasus (Cownose ray),#F5C710
+Leucoraja erinacea,Little skate,Leucoraja erinacea (Little skate),#C2B280

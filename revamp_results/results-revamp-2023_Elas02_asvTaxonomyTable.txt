@@ -1,0 +1,910 @@
+ASV	Kingdom	Phylum	Class	Order	Family	Genus	Species
+ASV_1	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_100	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1001	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1004	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1010	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1011	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1012	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1014	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1015	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1017	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_1019	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1022	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_1024	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1026	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_103	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1030	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_104	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	NA
+ASV_1040	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1041	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1046	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_1047	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_1051	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1054	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1067	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1068	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1069	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_107	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1074	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Pteroplatytrygon	NA
+ASV_1076	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1081	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1082	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1083	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_109	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1093	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1095	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_110	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1103	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1120	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1124	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_113	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1133	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1140	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1141	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_115	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1150	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1155	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1156	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1167	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1168	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1169	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_117	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Pteroplatytrygon	NA
+ASV_1181	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1182	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1185	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1186	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1187	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1189	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_119	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1191	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1199	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_120	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1200	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1211	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1215	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1216	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1219	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1222	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1223	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1224	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1227	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1229	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1231	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1246	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1247	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1252	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1267	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1268	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1269	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_127	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1280	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1281	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1285	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1286	Eukaryota	Chordata	Actinopteri	Istiophoriformes	NA	NA	NA
+ASV_1287	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1288	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1291	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1295	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1296	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1298	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1299	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_1302	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1306	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1322	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1323	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1326	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1327	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1328	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1329	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1332	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1333	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1334	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_135	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1361	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1370	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1373	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1375	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1380	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1382	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1393	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1394	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1395	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1397	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	NA	NA
+ASV_1398	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1399	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	Bathytoshia centroura
+ASV_1402	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1403	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1406	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1408	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Pteroplatytrygon	NA
+ASV_1411	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_1414	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1417	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1422	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_1423	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1425	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_143	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1436	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1439	Eukaryota	Chordata	Aves	Galliformes	NA	NA	NA
+ASV_144	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1443	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1447	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_1457	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1459	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_146	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1465	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1467	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_147	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1470	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1472	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1475	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1478	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_148	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1482	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	NA
+ASV_1493	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1494	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_1498	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_15	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_150	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1503	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1505	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1506	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_151	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1511	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1512	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1514	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_1515	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1518	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1519	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_152	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_1520	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	Bathytoshia centroura
+ASV_1521	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1525	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1527	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1531	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1536	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_1539	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_154	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1540	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_1542	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1544	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1545	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1547	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_155	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1559	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1560	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1569	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_157	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_1573	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1586	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1588	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1591	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1592	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1596	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1597	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_160	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_161	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1612	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1614	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1617	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1618	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1628	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1631	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_1632	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1640	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1641	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1643	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1647	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1654	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1657	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1659	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_166	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1661	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_169	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1693	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1695	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1696	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_17	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1703	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1706	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1708	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1711	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1714	Eukaryota	Chordata	Mammalia	Carnivora	NA	NA	NA
+ASV_1717	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1718	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_172	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Pteroplatytrygon	NA
+ASV_1723	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_1724	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_1725	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1728	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1733	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1742	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_1747	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_175	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1754	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1755	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1756	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1758	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1759	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1762	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1764	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1777	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_1784	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1785	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1793	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1795	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1796	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1799	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1800	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1804	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1805	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1808	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_181	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1812	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_182	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1822	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1823	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1824	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1828	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_183	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1831	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1835	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1836	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1837	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1842	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1843	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1844	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_1846	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1848	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1865	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1866	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1867	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1869	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_188	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	Bathytoshia centroura
+ASV_1883	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1884	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1886	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_189	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1891	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	NA
+ASV_1892	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1894	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1895	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1896	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_19	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_190	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1902	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1903	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1907	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1908	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_191	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1910	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1913	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1916	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_1918	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1919	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_192	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1928	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1946	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1947	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1948	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_1955	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1959	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1961	Eukaryota	Chordata	Actinopteri	Clupeiformes	NA	NA	NA
+ASV_1963	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_1971	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1972	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	NA
+ASV_1977	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1982	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_1983	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_1984	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1986	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1988	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1990	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_1994	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_1995	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_200	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2000	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_2006	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2010	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2017	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2019	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2025	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2026	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2027	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2028	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_203	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2031	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2032	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2034	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2044	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2045	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_2046	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2047	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2048	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_2051	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2057	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2061	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2062	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2064	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2065	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2075	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2080	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2090	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2092	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2099	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_21	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2100	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2106	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2107	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2113	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2116	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2117	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2120	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2121	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2125	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2131	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	NA
+ASV_2132	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2133	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2138	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_2139	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2140	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2148	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2149	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2150	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2151	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2152	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2158	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2161	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_2162	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2166	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2169	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_217	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2176	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2177	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2186	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2187	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2189	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2196	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2198	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_2199	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_22	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_220	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2200	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2201	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2208	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2211	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2212	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2214	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2215	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2216	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2222	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2223	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2225	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2228	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2240	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2241	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2242	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2247	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2250	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2252	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2253	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2258	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2259	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2262	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2263	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2264	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2265	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2271	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2278	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2279	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_228	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2280	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2284	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2286	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2289	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_229	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2292	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2294	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2301	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2302	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2303	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2304	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2305	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_2308	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2311	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2312	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2313	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2314	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_2316	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_232	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2328	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_2330	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2331	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2339	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_234	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2340	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2342	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2344	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2347	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2349	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2352	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2353	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_236	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2365	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2366	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_2367	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2377	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2378	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_238	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2380	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2384	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2395	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	NA	NA	NA
+ASV_2396	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_2397	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	Bathytoshia centroura
+ASV_2399	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_24	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2401	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2403	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2404	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2405	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_2409	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_241	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2410	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2412	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2413	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2419	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2420	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2423	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2426	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2433	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2434	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2435	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2436	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_2437	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_2438	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_244	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2440	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2448	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2449	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_245	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2450	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2453	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2454	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	Bathytoshia centroura
+ASV_2455	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_2456	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_246	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2460	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	Bathytoshia centroura
+ASV_2462	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2463	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2464	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2468	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2476	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2480	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2489	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_249	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2490	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2491	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2492	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2494	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2496	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2497	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_25	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2500	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2504	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2505	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2517	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2518	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2519	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2522	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2523	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2524	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2528	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2532	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2534	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2537	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_254	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2543	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2546	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2548	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2553	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2555	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2559	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2563	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2565	Eukaryota	Chordata	Actinopteri	Clupeiformes	NA	NA	NA
+ASV_2568	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_2573	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2575	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_2576	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2577	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2578	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2579	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2581	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2582	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2594	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2601	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2604	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2605	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2608	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2609	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2612	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2616	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2620	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2625	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2626	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2634	Eukaryota	Chordata	Actinopteri	Istiophoriformes	NA	NA	NA
+ASV_2639	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_265	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2650	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2656	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	NA
+ASV_2658	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2659	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_266	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2662	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2668	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2670	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_2675	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2681	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2682	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2683	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2684	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_2685	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2687	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2700	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2701	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2702	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2703	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	Bathytoshia centroura
+ASV_2704	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2705	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_271	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2713	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2716	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2717	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2719	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2722	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2723	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2724	Eukaryota	Chordata	Actinopteri	Siganidae__o	NA	NA	NA
+ASV_2726	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	NA
+ASV_2727	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	NA	NA
+ASV_273	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2733	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2734	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2735	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2741	Eukaryota	Chordata	Mammalia	Artiodactyla	Suidae	Sus	Sus scrofa
+ASV_2742	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_275	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2750	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2751	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2754	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_2756	Eukaryota	Chordata	Actinopteri	Clupeiformes	NA	NA	NA
+ASV_2757	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	NA	NA
+ASV_2763	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2765	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2769	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2774	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_2777	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2778	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_2779	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_2782	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_2787	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2790	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2791	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2792	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	NA
+ASV_2793	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2799	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2805	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_2807	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_2818	Eukaryota	Chordata	Mammalia	Artiodactyla	Bovidae	Bos	Bos taurus
+ASV_2820	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_2822	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_283	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2830	Eukaryota	Chordata	Mammalia	Carnivora	Canidae	Canis	Canis lupus
+ASV_2831	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2835	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2849	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2856	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_2861	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus griseus
+ASV_2863	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2874	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_2879	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2880	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_2881	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2882	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2889	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_2890	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_2891	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2896	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_2902	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2903	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_291	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2913	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_2914	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2918	Eukaryota	Chordata	Actinopteri	Lutjaniformes	NA	NA	NA
+ASV_2921	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_2923	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_2928	Eukaryota	Chordata	Actinopteri	Tetraodontiformes	NA	NA	NA
+ASV_2929	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2931	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_294	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_2941	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_2963	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	NA	NA
+ASV_2978	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	NA
+ASV_2979	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_300	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_3005	Eukaryota	Chordata	Actinopteri	Clupeiformes	NA	NA	NA
+ASV_3009	Eukaryota	Chordata	Actinopteri	Sciaenidae__o	Sciaenidae	NA	NA
+ASV_3015	Eukaryota	Chordata	Actinopteri	Istiophoriformes	NA	NA	NA
+ASV_302	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_3022	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_3029	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_303	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_3030	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_3031	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_3040	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	NA	NA
+ASV_306	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_3072	Eukaryota	Chordata	Chondrichthyes	Lamniformes	NA	NA	NA
+ASV_3089	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_3093	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_3097	Eukaryota	Chordata	Actinopteri	Clupeiformes	Clupeidae	Alosa	NA
+ASV_310	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_313	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_3134	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	NA	NA
+ASV_3146	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	NA	NA	NA
+ASV_3163	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_3164	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_320	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_3201	Eukaryota	Chordata	Actinopteri	Clupeiformes	NA	NA	NA
+ASV_322	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_3232	Eukaryota	Chordata	Chondrichthyes	NA	NA	NA	NA
+ASV_3233	Eukaryota	Chordata	Chondrichthyes	Lamniformes	NA	NA	NA
+ASV_3236	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_324	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_3243	Eukaryota	Chordata	Aves	Galliformes	NA	NA	NA
+ASV_3254	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_3261	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_328	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_33	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_331	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_3314	Eukaryota	Chordata	Aves	Galliformes	NA	NA	NA
+ASV_3339	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_3342	Eukaryota	Chordata	Mammalia	Carnivora	NA	NA	NA
+ASV_3369	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_3375	Eukaryota	Chordata	Actinopteri	NA	NA	NA	NA
+ASV_3394	Eukaryota	Chordata	Actinopteri	Clupeiformes	NA	NA	NA
+ASV_34	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_340	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_3414	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_3415	Eukaryota	Chordata	Actinopteri	Sciaenidae__o	Sciaenidae	NA	NA
+ASV_3416	Eukaryota	Chordata	Actinopteri	Sciaenidae__o	Sciaenidae	NA	NA
+ASV_343	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_345	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_348	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_351	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_354	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_357	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_359	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_360	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_364	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_365	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_366	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_367	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_37	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_377	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_378	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_38	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_383	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_386	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_389	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_39	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_393	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_398	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_399	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_4	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_40	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_405	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_407	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_409	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_413	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_416	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_419	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_421	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_422	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_423	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_428	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_429	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_431	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_432	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_433	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_435	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_436	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_439	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_44	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_440	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_441	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_45	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_452	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_458	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_460	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_466	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_470	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_473	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_475	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_476	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_477	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_481	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_483	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_484	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_485	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_486	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_487	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_491	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_492	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_495	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_499	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_500	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_503	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_504	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_506	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_508	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_509	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_516	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_518	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_519	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_520	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_53	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_530	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_532	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_540	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_542	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_546	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_547	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_548	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_553	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_558	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_561	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_562	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_564	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_57	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_570	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_571	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_578	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_58	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_584	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_596	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_598	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_601	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_603	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_604	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_605	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	Squalus acanthias
+ASV_607	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_61	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_610	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_612	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_615	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_616	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_618	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_62	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_622	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Gymnuridae	Gymnura	Gymnura altavela
+ASV_628	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_630	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_634	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_636	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_639	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_64	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_641	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_644	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_647	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_65	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_651	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_653	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_654	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_656	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_658	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_666	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_667	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_668	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	Bathytoshia centroura
+ASV_669	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_670	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_671	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_675	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_677	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_681	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_683	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	NA
+ASV_685	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_688	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_697	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_701	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_703	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_708	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_710	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_712	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_713	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_714	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_724	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_725	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_73	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_735	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_739	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_743	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_744	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_749	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_75	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_752	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_757	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_758	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_760	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Myliobatis	Myliobatis freminvillei
+ASV_768	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_77	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_771	Eukaryota	Chordata	Chondrichthyes	Lamniformes	Odontaspididae	Carcharias	Carcharias taurus
+ASV_772	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_773	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_779	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_78	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_783	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_792	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_793	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_799	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_80	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_800	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_808	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_809	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_811	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_823	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_83	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_832	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_839	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_84	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_840	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_841	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_843	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_844	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_847	Eukaryota	Chordata	Mammalia	Primates	Hominidae	Homo	Homo sapiens
+ASV_849	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_85	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_857	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja erinacea
+ASV_86	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_861	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_864	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_865	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_867	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_87	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_871	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_876	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_879	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_882	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_885	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_888	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_889	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_897	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_898	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_9	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_90	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_900	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_905	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_909	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_911	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_914	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_915	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_917	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_918	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_92	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_921	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_935	Eukaryota	Chordata	Chondrichthyes	Squaliformes	Squalidae	Squalus	NA
+ASV_937	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_94	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_940	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus henlei
+ASV_942	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_948	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_950	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Leucoraja	Leucoraja ocellata
+ASV_951	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_952	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_956	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_957	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_969	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_970	Eukaryota	Chordata	Chondrichthyes	Rajiformes	Rajidae	Raja	Raja eglanteria
+ASV_971	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Dasyatidae	Bathytoshia	NA
+ASV_976	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_977	Eukaryota	Chordata	Chondrichthyes	Myliobatiformes	Myliobatidae	Rhinoptera	Rhinoptera bonasus
+ASV_989	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	NA	NA
+ASV_99	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_994	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis
+ASV_998	Eukaryota	Chordata	Chondrichthyes	Carcharhiniformes	Triakidae	Mustelus	Mustelus canis

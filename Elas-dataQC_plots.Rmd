@@ -1,0 +1,667 @@
+---
+title: "Plots and Analysis for Sciorilli et al. Elasmobranch eDNA paper"
+output: html_notebook
+---
+
+
+<br/>
+
+# Table of Contents
+- [Load packages](#load-packages)
+- [Import and prepare data](#import-and-prepare-data)
+- [QC and filtering](#qc-and-filtering)
+- [Visualizations](#visualizations)
+
+      
+<br/>
+
+
+
+# Load packages
+
+```{r}
+# rm(list = ls())
+library(tidyverse)
+library(phyloseq)
+library(vegan)
+library(RColorBrewer)
+library(microbiome)
+library(metagMisc)
+library(fantaxtic)
+library(ggrepel)
+library(paletteer)
+library(sf)
+
+```
+
+# Map
+
+Import geo data for Shinn bay and make basemap
+```{r}
+# lets get a box to make a smaller sized objects and facilitate the examples:
+geo.box <- c(xmin=-72.61, xmax=-72.4, ymin=40.79, ymax=40.9)
+
+sf_use_s2(FALSE)
+
+# Shoreline data for us detail
+gshhg.l1 <- sf::read_sf("raw_data/gshhg-shp-2.3.7/GSHHS_shp/f/GSHHS_f_L1.shp") %>% st_crop(geo.box)
+plot(gshhg.l1["id"])
+
+# make ggplot object
+shinnbay_map <- ggplot(data = gshhg.l1) +
+  geom_sf(aes(geometry = geometry)) +
+    scale_x_continuous(breaks = seq(-72.6, -72.4, 0.1)) +
+    scale_y_continuous(breaks = seq(40.80, 40.9, 0.05))
+
+shinnbay_map
+
+```
+
+Import station GPS locations and plot ontop of base map
+```{r}
+station_gps <- read_csv("raw_data/GPS_locations.csv")
+station_gps
+
+station_map <- shinnbay_map +
+  geom_point(
+    data = station_gps,
+    aes(x = Lon, y = Lat, color = `Sample Type`),
+    size = 4) +
+  geom_text_repel(
+    data = station_gps,
+    aes(x = Lon, y = Lat, label = site_altname),
+    size = 3,
+    min.segment.length = 0,
+    box.padding = 0.25,
+    point.padding = 0.25,
+    max.overlaps = Inf) +
+  scale_color_manual(name = NULL,
+                     values = c(Trawl = "chartreuse2",
+                                'Oyster reef' = "cadetblue",
+                                'Clam sanctuary' = "darkorange")) +
+  guides(color = guide_legend(title.position = "top",
+      title.hjust = 0.5,
+      nrow = 1,
+      byrow = TRUE,
+      override.aes = list(size = 4))) +
+  theme_minimal() +
+  theme(legend.position = "bottom",
+    legend.direction = "horizontal",
+    legend.title = element_blank(),
+    legend.text = element_text(size = 9),
+    legend.key.width = unit(1.2, "lines"),
+    legend.key.height = unit(0.8, "lines",),
+    axis.title = element_blank(),)
+
+station_map
+
+ggsave("figure/map.jpg", plot = station_map)
+
+  
+```
+
+
+#  Import and prepare eDNA data
+
+Turn into phyloseq objects
+
+**2021 data**
+```{r}
+asv_count <- read.delim("revamp_results/results-revamp-2021_Elas02_ASVs_counts.tsv", header=TRUE, stringsAsFactors=FALSE)
+row.names(asv_count) <- asv_count$x
+asv_count <- asv_count %>% select(-x)
+asv_count_mat <- as.matrix(asv_count)
+
+asv_taxonomy <- read.delim("revamp_results/results-revamp-2021_Elas02_asvTaxonomyTable.txt", header=TRUE, stringsAsFactors=FALSE)
+row.names(asv_taxonomy) <- asv_taxonomy$ASV
+asv_taxonomy <- asv_taxonomy %>% select(-ASV)
+asv_taxonomy_mat <- as.matrix(asv_taxonomy)
+
+sample_metadata <- read.delim("revamp_results/results-revamp-2021_Elas02_sample_metadata_forR.txt", header=TRUE, stringsAsFactors=TRUE)
+row.names(sample_metadata) <- sample_metadata$Sample
+sample_metadata <- sample_metadata %>% select(-Sample)
+
+ASV_2021 = otu_table(asv_count_mat, taxa_are_rows = TRUE)
+TAX_2021 = tax_table(asv_taxonomy_mat)
+samples_2021 = sample_data(sample_metadata)
+
+phylo_2021 <- phyloseq(ASV_2021, TAX_2021, samples_2021)
+
+```
+
+
+**2023 data**
+```{r}
+asv_count <- read.delim("revamp_results/results-revamp-2023_Elas02_ASVs_counts.tsv", header=TRUE, stringsAsFactors=FALSE)
+row.names(asv_count) <- asv_count$x
+asv_count <- asv_count %>% select(-x)
+asv_count_mat <- as.matrix(asv_count)
+
+asv_taxonomy <- read.delim("revamp_results/results-revamp-2023_Elas02_asvTaxonomyTable.txt", header=TRUE, stringsAsFactors=FALSE)
+row.names(asv_taxonomy) <- asv_taxonomy$ASV
+asv_taxonomy <- asv_taxonomy %>% select(-ASV)
+asv_taxonomy_mat <- as.matrix(asv_taxonomy)
+
+sample_metadata <- read.delim("revamp_results/results-revamp-2023_Elas02_sample_metadata_forR.txt", header=TRUE, stringsAsFactors=TRUE)
+row.names(sample_metadata) <- sample_metadata$Sample
+sample_metadata <- sample_metadata %>% select(-Sample)
+
+ASV_2023 = otu_table(asv_count_mat, taxa_are_rows = TRUE)
+TAX_2023 = tax_table(asv_taxonomy_mat)
+samples_2023 = sample_data(sample_metadata)
+
+phylo_2023 <- phyloseq(ASV_2023, TAX_2023, samples_2023)
+
+```
+
+
+
+
+# QC and filtering
+
+
+**2021**
+Check some features of the phyloseq object
+```{r}
+ranks <- rank_names(phylo_2021)
+ranks
+
+unique(tax_table(phylo_2021)[, ranks[1]])
+unique(tax_table(phylo_2021)[, ranks[2]])
+unique(tax_table(phylo_2021)[, ranks[3]])
+```
+
+Remove the birds, mammals, and Actinopteri- some of these have exact match to primers, but they are not really subject of study.
+```{r}
+nrow(tax_table(phylo_2021)) # number of taxa before filtering
+ps2021 <- subset_taxa(phylo_2021, !Class == 'Aves' & !Class == 'Mammalia' & !Class == 'Actinopteri')
+nrow(tax_table(ps2021)) # number of taxa left
+unique(tax_table(ps2021)[, ranks[3]])
+```
+**2023**
+Check some features of the phyloseq object
+```{r}
+ranks <- rank_names(phylo_2023)
+ranks
+
+unique(tax_table(phylo_2023)[, ranks[1]])
+unique(tax_table(phylo_2023)[, ranks[2]])
+unique(tax_table(phylo_2023)[, ranks[3]])
+```
+
+Remove the birds, mammals, and Actinopteri
+```{r}
+nrow(tax_table(phylo_2023)) # number of taxa before filtering
+ps2023 <- subset_taxa(phylo_2023, !Class == 'Aves' & !Class == 'Mammalia' & !Class == 'Actinopteri')
+nrow(tax_table(ps2023)) # number of taxa left
+unique(tax_table(ps2023)[, ranks[3]])
+```
+
+
+Remove ASVs with low number of reads
+
+```{r}
+ps2021 <- metagMisc::phyloseq_filter_sample_wise_abund_trim(
+  ps2021,
+  minabund = 1000,
+  relabund = FALSE)
+
+data.frame(otu_table(ps2021))
+```
+
+```{r}
+ps2023 <- metagMisc::phyloseq_filter_sample_wise_abund_trim(
+  ps2023,
+  minabund = 1000,
+  relabund = FALSE)
+
+data.frame(otu_table(ps2023))
+```
+
+
+### Manual curation
+
+```{r}
+# Replace NA in Species with "Name-of-genus sp."
+tax_table(ps2021) <- tax_table(fantaxtic::name_na_taxa(ps2021, include_rank = F, na_label = "<tax> sp."))
+tax_table(ps2023) <- tax_table(fantaxtic::name_na_taxa(ps2023, include_rank = F, na_label = "<tax> sp."))
+
+```
+
+replace Pteroplatytrygon sp. with Pteroplatytrygon violacea (there is only one known species in this genus)
+
+```{r}
+tax_table(ps2023) <- gsub(tax_table(ps2023), pattern="Pteroplatytrygon sp.", replacement="Pteroplatytrygon violacea")
+
+```
+
+
+## Agglomerate by taxonomy
+Generate new otu tables after grouping ASVs by species name
+```{r}
+ps2021glommed <- tax_glom(ps2021, "Species")
+
+# plot total reads
+plot_bar(ps2021glommed, x = "Sample")
+
+# view tax_table
+data.frame(tax_table(ps2021glommed))
+```
+
+
+
+```{r}
+ps2023glommed <- tax_glom(ps2023, "Species")
+
+# plot total reads
+plot_bar(ps2023glommed, x = "Sample")
+
+# view tax_table
+data.frame(tax_table(ps2023glommed))
+```
+
+## Export agglomerated taxonomy-based tables
+
+**2021**
+```{r}
+elas02_2021_asv_table_taxbased <- data.frame(otu_table(ps2021glommed))
+elas02_2021_tax_table_taxbased <- rownames_to_column(data.frame(tax_table(ps2021glommed)), var = "1stRepresentative_ASV")
+elas02_2021_sample_data_taxbased <- data.frame(sample_data(ps2021glommed))
+
+
+# add on common names to tax_table
+commonnames <- read_csv(file = "commonnames.csv")
+elas02_2021_tax_table_taxbased <- left_join(elas02_2021_tax_table_taxbased, commonnames, by = c("Species" = "Taxon"))
+
+# view
+elas02_2021_asv_table_taxbased
+elas02_2021_tax_table_taxbased
+elas02_2021_sample_data_taxbased
+
+# export
+write.csv(elas02_2021_asv_table_taxbased,"figure/elas02_2021_asv_table_taxbased.csv", row.names = TRUE)
+write.csv(elas02_2021_tax_table_taxbased,"figure/elas02_2021_tax_table_taxbased.csv", row.names = FALSE)
+write.csv(elas02_2021_sample_data_taxbased,"figure/elas02_2021_sample_data_taxbased.csv", row.names = TRUE)
+```
+
+
+**2023**
+```{r}
+elas02_2023_asv_table_taxbased <- data.frame(otu_table(ps2023glommed))
+elas02_2023_tax_table_taxbased <- rownames_to_column(data.frame(tax_table(ps2023glommed)), var = "1stRepresentative_ASV")
+elas02_2023_sample_data_taxbased <- data.frame(sample_data(ps2023glommed))
+
+# add on common names to tax_table
+commonnames <- read_csv(file = "commonnames.csv")
+elas02_2023_tax_table_taxbased <- left_join(elas02_2023_tax_table_taxbased, commonnames, by = c("Species" = "Taxon"))
+
+# view
+elas02_2023_asv_table_taxbased
+elas02_2023_tax_table_taxbased
+elas02_2023_sample_data_taxbased
+
+# export
+write.csv(elas02_2023_asv_table_taxbased,"figure/elas02_2023_asv_table_taxbased.csv", row.names = TRUE)
+write.csv(elas02_2023_tax_table_taxbased,"figure/elas02_2023_tax_table_taxbased.csv", row.names = FALSE)
+write.csv(elas02_2023_sample_data_taxbased,"figure/elas02_2023_sample_data_taxbased.csv", row.names = TRUE)
+```
+
+
+
+Also calculate *relative abundances* (# of ASV sequences/sum total sequences in sample), for some plotting
+
+```{r}
+ps2021_ra <- microbiome::transform(ps2021, transform = "compositional")
+ps2021glommed_ra <- microbiome::transform(ps2021glommed, transform = "compositional")
+
+ps2023_ra <- microbiome::transform(ps2023, transform = "compositional")
+ps2023glommed_ra <- microbiome::transform(ps2023glommed, transform = "compositional")
+
+```
+
+# Visualizations
+
+## Set up dataframes
+
+```{r}
+# convert ps object to dataframe using phyloseq's psmelt
+ps2021glommed_df <- psmelt(ps2021glommed)
+ps2023glommed_df <- psmelt(ps2023glommed)
+ps2021glommed_ra_df <- psmelt(ps2021glommed_ra)
+ps2023glommed_ra_df <- psmelt(ps2023glommed_ra)
+
+# replace zeroes in the table with NA
+ps2021glommed_df[ps2021glommed_df == 0] <- NA
+ps2023glommed_df[ps2023glommed_df == 0] <- NA
+ps2021glommed_ra_df[ps2021glommed_ra_df == 0] <- NA
+ps2023glommed_ra_df[ps2023glommed_ra_df == 0] <- NA
+
+# and remove rows with NAs (so they don't appear as small dots in plot)
+ps2021glommed_df <-  filter(ps2021glommed_df, !is.na(Abundance))
+ps2023glommed_df <-  filter(ps2023glommed_df, !is.na(Abundance))
+ps2021glommed_ra_df <-  filter(ps2021glommed_ra_df, !is.na(Abundance))
+ps2023glommed_ra_df <-  filter(ps2023glommed_ra_df, !is.na(Abundance))
+
+# add in common names
+ps2021glommed_df <- left_join(ps2021glommed_df, commonnames, by = c("Species" = "Taxon"))
+ps2023glommed_df <- left_join(ps2023glommed_df, commonnames, by = c("Species" = "Taxon"))
+ps2021glommed_ra_df <- left_join(ps2021glommed_ra_df, commonnames, by = c("Species" = "Taxon"))
+ps2023glommed_ra_df <- left_join(ps2023glommed_ra_df, commonnames, by = c("Species" = "Taxon"))
+
+# and view
+ps2021glommed_df
+ps2023glommed_df
+ps2021glommed_ra_df
+ps2023glommed_ra_df
+```
+
+
+
+
+## Set fill colors
+
+```{r}
+# set colors so Com name and Sp name are consistent colors across plots
+fill_map <- dplyr::bind_rows(ps2021glommed_df %>% 
+                               select(Taxon.CommonName, Color),ps2023glommed_df %>% 
+                               select(Taxon.CommonName, Color)) %>%
+  distinct(Taxon.CommonName, .keep_all = TRUE) %>%
+  tibble::deframe()
+
+fill_map
+```
+
+
+
+
+
+
+## Examine controls 
+Plot positive controls
+```{r}
+label_map <- c(
+  AMW_S2      = "Aquarium",
+  CCE1        = "S. retifer tank 1",
+  CCE2        = "S. retifer tank 2",
+  MC1         = "M. canis tissue",
+  SA1         = "S. acanthias tissue",
+  Shark_blood = "M. canis blood"
+)
+
+# Helper- wraps labels on plot
+wrap_labels <- function(x, width = 12) {
+  lab <- label_map[x]
+  lab[is.na(lab)] <- x[is.na(lab)]
+  str_wrap(lab, width = width)}
+
+# plot
+ps2021_posctl_barplot <- ggplot(ps2021glommed_df %>% filter(controls == "positive"),
+  aes(x = replicates, y = Abundance, fill = Taxon.CommonName)) +
+  geom_col() +
+  theme_bw() +
+  scale_y_continuous(name = "Read Abundance") +
+  scale_x_discrete(labels = function(x) wrap_labels(x, width = 12)) +
+  scale_fill_manual(values = fill_map) +
+  labs(fill = NULL) +
+  theme(axis.title.x=element_blank(),
+        axis.text.x = element_text(size = 8),
+        axis.text.y = element_text(size = 8),
+        legend.title = element_text(size = 9),
+        legend.text  = element_text(size = 8))
+
+
+ps2021_posctl_ra_barplot <- ggplot(
+  ps2021glommed_ra_df %>% filter(controls == "positive"),
+  aes(x = replicates, y = Abundance, fill = Taxon.CommonName)
+) +
+  geom_col() +
+  theme_bw() +
+  scale_y_continuous(name = "Relative Abundance") +
+  scale_x_discrete(labels = function(x) wrap_labels(x, width = 12)) +
+  scale_fill_manual(values = fill_map) +
+  labs(fill = NULL) +
+  theme(axis.title.x=element_blank(),
+        axis.text.x = element_text(size = 8),
+        axis.text.y = element_text(size = 8),
+        legend.title = element_text(size = 9),
+        legend.text  = element_text(size = 8))
+
+ps2021_posctl_barplot
+ps2021_posctl_ra_barplot
+
+
+
+
+# save
+ggsave(plot = ps2021_posctl_barplot, filename = "figure/2021_posctl_barplot.eps", width = 180, height = 75, units = "mm")
+ggsave(plot = ps2021_posctl_barplot, filename = "figure/2021_posctl_barplot.jpg", width = 180, height = 75, units = "mm")
+ggsave(plot = ps2021_posctl_ra_barplot, filename = "figure/2021_posctl_ra_barplot.eps", width = 180, height = 75, units = "mm")
+ggsave(plot = ps2021_posctl_ra_barplot, filename = "figure/2021_posctl_ra_barplot.jpg", width = 180, height = 75, units = "mm")
+
+
+
+
+# export data of pos ctls for text of manuscript
+ps2021_posctls <- data.frame(otu_table(subset_samples(ps2021glommed, controls == "positive")))
+ps2021_posctls_ra <- data.frame(otu_table(subset_samples(ps2021glommed_ra, controls == "positive")))
+ps2021_posctls_taxa <- data.frame(tax_table(subset_samples(ps2021glommed, controls == "positive")))
+
+write.csv(ps2021_posctls, file = "figure/ps2021_posctls.csv")
+write.csv(ps2021_posctls_ra, file = "figure/ps2021_posctls_ra.csv")
+write.csv(ps2021_posctls_taxa, file = "figure/ps2021_posctls_taxa.csv")
+
+```
+
+
+
+
+
+
+## Bubble plots
+
+Based on my previous [scripts](https://github.com/lizsuter/Cariaco_Euk)
+
+
+
+Plot by species, scientific name
+**2021**
+```{r}
+
+# pull out and order site names
+levels(unique(c(ps2021glommed_df$sites, ps2023glommed_df$sites)))
+# reorder to
+sitelevels <- c("1","2","3","4","5","6","7","8","9","10","11","12","13","TI","WC", "C4", "C5", "S1", "S3","S6", "S9")
+
+# order bayside so it is geographically W-E and not alphabetical, E-W
+ps2021glommed_df <- ps2021glommed_df %>% mutate(BAYSIDE = factor(BAYSIDE, levels = c("WEST", "EAST")))
+ps2021glommed_ra_df <- ps2021glommed_ra_df %>% mutate(BAYSIDE = factor(BAYSIDE, levels = c("WEST", "EAST")))
+
+
+# 2021, read abundance
+bubbleplot_2021 <- ggplot(ps2021glommed_df %>% filter(is.na(controls)), aes(x = factor(sites, levels = sitelevels), y = fct_rev(Taxon.CommonName))) + # fct_rev helps to present it in reverse order in the plot (from top to btm alphabetically)
+  geom_point(aes(size=ifelse(Abundance==0, NA, Abundance), fill = Taxon.CommonName), color = "black", pch = 21) +
+  scale_size_area(breaks = c(1000,10000,100000,1000000,10000000))+
+  xlab("")+
+  ylab("")+
+  labs(size="Read Abundance", fill = "")+
+  theme_bw() +
+  scale_fill_manual(values = fill_map) +
+  theme(axis.title.x=element_blank(),
+        axis.text.x = element_text(size = 8),
+        axis.text.y = element_text(size = 8),
+        legend.title = element_text(size = 9),
+        legend.text  = element_text(size = 8)) +
+  facet_grid(Month~BAYSIDE, scales = "free", space = "free", drop= TRUE) +
+  guides(fill = "none")
+
+
+# 2021, relative abundance
+bubbleplot_2021_ra <- ggplot(ps2021glommed_ra_df %>% filter(is.na(controls)), aes(x = factor(sites, levels = sitelevels), y = fct_rev(Taxon.CommonName))) +
+  geom_point(aes(size=ifelse(Abundance==0, NA, Abundance), fill = Taxon.CommonName), color = "black", pch = 21) +
+  scale_size_area(breaks = c(.25,.5,.75,1), max_size = 6)+
+  xlab("")+
+  ylab("")+
+  labs(size="Relative Abundance", fill = "")+
+  theme_bw() +
+  scale_fill_manual(values = fill_map) +
+  theme(axis.title.x=element_blank(),
+        axis.text.x = element_text(size = 8),
+        axis.text.y = element_text(size = 8),
+        legend.title = element_text(size = 9),
+        legend.text  = element_text(size = 8)) +
+  facet_grid(Month~BAYSIDE, scales = "free", space = "free", drop= TRUE) +
+  guides(fill = "none")
+
+
+
+bubbleplot_2021
+bubbleplot_2021_ra
+
+
+# save
+ggsave(plot = bubbleplot_2021, filename = "figure/bubbleplot_2021.eps", width = 180, height = 180, units = "mm")
+ggsave(plot = bubbleplot_2021, filename = "figure/bubbleplot_2021.jpg", width = 180, height = 180, units = "mm")
+ggsave(plot = bubbleplot_2021_ra, filename = "figure/bubbleplot_2021_ra.eps", width = 180, height = 180, units = "mm")
+ggsave(plot = bubbleplot_2021_ra, filename = "figure/bubbleplot_2021_ra.jpg", width = 180, height = 180, units = "mm")
+```
+
+
+**2023**
+```{r}
+# order bayside so it is geographically W-E and not alphabetical, E-W
+ps2023glommed_df <- ps2023glommed_df %>% mutate(BAYSIDE = factor(BAYSIDE, levels = c("WEST", "EAST")))
+ps2023glommed_ra_df <- ps2023glommed_ra_df %>% mutate(BAYSIDE = factor(BAYSIDE, levels = c("WEST", "EAST")))
+
+
+# 2023, read abundance
+bubbleplot_2023 <- ggplot(ps2023glommed_df %>% filter(is.na(controls)), aes(x = factor(sites, levels = sitelevels), y = fct_rev(Taxon.CommonName))) + # fct_rev helps to present it in reverse order in the plot (from top to btm alphabetically)
+  geom_point(aes(size=ifelse(Abundance==0, NA, Abundance), fill = Taxon.CommonName), color = "black", pch = 21) +
+  scale_size_area(breaks = c(1000,10000,100000,1000000,10000000))+
+  xlab("")+
+  ylab("")+
+  labs(size="Read Abundance", fill = "")+
+  theme_bw() +
+  scale_fill_manual(values = fill_map) +
+  theme(axis.title.x=element_blank(),
+        axis.text.x = element_text(size = 8),
+        axis.text.y = element_text(size = 8),
+        legend.title = element_text(size = 9),
+        legend.text  = element_text(size = 8)) +
+  facet_grid(Month~BAYSIDE, scales = "free", space = "free", drop= TRUE) +
+  guides(fill = "none")
+
+
+# 2023, relative abundance
+bubbleplot_2023_ra <- ggplot(ps2023glommed_ra_df %>% filter(is.na(controls)), aes(x = factor(sites, levels = sitelevels), y = fct_rev(Taxon.CommonName))) +
+  geom_point(aes(size=ifelse(Abundance==0, NA, Abundance), fill = Taxon.CommonName), color = "black", pch = 21) +
+  scale_size_area(breaks = c(.25,.5,.75,1), max_size = 6)+
+  xlab("")+
+  ylab("")+
+  labs(size="Relative Abundance", fill = "")+
+  theme_bw() +
+  scale_fill_manual(values = fill_map) +
+  theme(axis.title.x=element_blank(),
+        axis.text.x = element_text(size = 8),
+        axis.text.y = element_text(size = 8),
+        legend.title = element_text(size = 9),
+        legend.text  = element_text(size = 8)) +
+  facet_grid(Month~BAYSIDE, scales = "free", space = "free", drop= TRUE) +
+  guides(fill = "none")
+
+
+
+bubbleplot_2023
+bubbleplot_2023_ra
+
+
+# save
+ggsave(plot = bubbleplot_2023, filename = "figure/bubbleplot_2023.eps", width = 180, height = 140, units = "mm")
+ggsave(plot = bubbleplot_2023, filename = "figure/bubbleplot_2023.jpg", width = 180, height = 140, units = "mm")
+ggsave(plot = bubbleplot_2023_ra, filename = "figure/bubbleplot_2023_ra.eps", width = 180, height = 140, units = "mm")
+ggsave(plot = bubbleplot_2023_ra, filename = "figure/bubbleplot_2023_ra.jpg", width = 180, height = 140, units = "mm")
+```
+
+
+
+
+## Time Series Plots
+Look at total read abundance and rel abundance for different spp per month. Aggregate sites by bayside (E/W) and type (open water/ bivalve habitat)
+
+**2021**
+```{r}
+# First group total reads by Species, Habitat_type and Month so there is one point per time point on the plot
+TimeSeries_df_2021 <- ps2021glommed_df %>% filter(is.na(controls)) %>%
+  group_by(Month, Habitat_type, Taxon.CommonName) %>%
+  summarise(TotalReads = sum(Abundance))
+TimeSeries_df_2021
+```
+
+
+```{r}
+#First force the order of Habitat type so it plots in desired order
+TimeSeries_df_2021$Habitat_type_f = factor(TimeSeries_df_2021$Habitat_type, levels=c("OPEN WATER", "CLAM SANCTUARY"))
+
+speciestimeseries_comname_2021 <- ggplot(TimeSeries_df_2021, aes(x = Month, y = log10(TotalReads))) +
+  geom_col(aes(fill = Taxon.CommonName), show.legend = FALSE) +
+  ylab("Log 10 (Reads)")+
+  theme_bw() +
+  theme(axis.title.x=element_blank(),
+        legend.title=element_blank(),
+        axis.text.x = element_text(size = 8),
+        axis.text.y = element_text(size = 8),
+          strip.text = element_text(size = 8)) +
+  scale_x_continuous(breaks=c(5,6,7,8,9), labels = c("M","J","J","A","S")) +
+  facet_grid(Habitat_type_f~Taxon.CommonName,
+             labeller = labeller(Taxon.CommonName = label_wrap_gen(width = 12))) +
+  scale_fill_manual(values = fill_map)
+
+
+speciestimeseries_comname_2021
+ggsave(speciestimeseries_comname_2021, filename = "figure/speciestimeseries_2021.jpg", height = 80, width = 180, units = "mm")
+```
+
+
+
+
+
+
+**2023**
+```{r}
+# First group total reads by Species, Habitat_type and Month so there is one point per time point on the plot
+TimeSeries_df_2023 <- ps2023glommed_df %>% filter(is.na(controls)) %>%
+  group_by(Month, Habitat_type, Taxon.CommonName) %>%
+  summarise(TotalReads = sum(Abundance))
+TimeSeries_df_2023
+```
+
+
+```{r}
+#First force the order of Habitat type so it plots in desired order
+TimeSeries_df_2023$Habitat_type_f = factor(TimeSeries_df_2023$Habitat_type, levels=c("OYSTER REEF","OPEN WATER", "CLAM SANCTUARY"))
+
+speciestimeseries_comname_2023 <- ggplot(TimeSeries_df_2023, aes(x = Month, y = log10(TotalReads))) +
+  geom_col(aes(fill = Taxon.CommonName), show.legend = FALSE) +
+  ylab("Log 10 (Reads)")+
+  theme_bw() +
+  theme(axis.title.x=element_blank(),
+        legend.title=element_blank(),
+        axis.text.x = element_text(size = 8),
+        axis.text.y = element_text(size = 8),
+          strip.text = element_text(size = 8)) +
+  scale_x_continuous(breaks=c(5,6,7,8,9), labels = c("M","J","J","A","S")) +
+  facet_grid(Habitat_type_f~Taxon.CommonName,
+             labeller = labeller(Taxon.CommonName = label_wrap_gen(width = 8))) +
+  scale_fill_manual(values = fill_map)
+
+
+speciestimeseries_comname_2023
+ggsave(speciestimeseries_comname_2023, filename = "figure/speciestimeseries_2023.jpg", height = 120, width = 180, units = "mm")
+```
+
+
+
+
+
+
+
+
