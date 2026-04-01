@@ -2,7 +2,7 @@
 
 A repo for Shinnecock Bay Restoration Program (ShiRP) elasmobranch eDNA project and manuscript.
 
-FastQ files are available under [Bioproject #](TBD)
+FastQ files are available under [Bioproject # PRJNA1423279](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1423279/)
 
 Reference database generated with [RCrux](https://github.com/CalCOFI/rCRUX) and available at [Zenodo](https://zenodo.org/records/18626068)
 
@@ -58,7 +58,7 @@ write.table(mapping_file, "elas02/mapping_file.txt", sep='\t', col.names = FALSE
 
 ```
 
-Bioinformatics pipeline: [REVAMP](https://github.com/McAllister-NOAA/REVAMP)
+Bioinformatics pipeline based on [REVAMP](https://github.com/McAllister-NOAA/REVAMP)
 
 Specification are in config files. To run:
 
