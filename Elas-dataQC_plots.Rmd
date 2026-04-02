@@ -459,7 +459,7 @@ write.csv(ps2021_posctls_taxa, file = "figure/ps2021_posctls_taxa.csv")
 
 ## Bubble plots
 
-Based on my previous [scripts](https://github.com/lizsuter/Cariaco_Euk)
+Based on previous [scripts](https://github.com/lizsuter/Cariaco_Euk)
 
 
 
@@ -598,7 +598,7 @@ TimeSeries_df_2021
 
 
 ```{r}
-#First force the order of Habitat type so it plots in desired order
+#force the order of Habitat type so it plots in desired order
 TimeSeries_df_2021$Habitat_type_f = factor(TimeSeries_df_2021$Habitat_type, levels=c("OPEN WATER", "CLAM SANCTUARY"))
 
 speciestimeseries_comname_2021 <- ggplot(TimeSeries_df_2021, aes(x = Month, y = log10(TotalReads))) +
@@ -610,14 +610,14 @@ speciestimeseries_comname_2021 <- ggplot(TimeSeries_df_2021, aes(x = Month, y = 
         axis.text.x = element_text(size = 8),
         axis.text.y = element_text(size = 8),
           strip.text = element_text(size = 8)) +
-  scale_x_continuous(breaks=c(5,6,7,8,9), labels = c("M","J","J","A","S")) +
+  scale_x_continuous(breaks=c(5,6,7,8,9,10), labels = c("M","J","J","A","S","O")) +
   facet_grid(Habitat_type_f~Taxon.CommonName,
              labeller = labeller(Taxon.CommonName = label_wrap_gen(width = 12))) +
   scale_fill_manual(values = fill_map)
 
 
 speciestimeseries_comname_2021
-ggsave(speciestimeseries_comname_2021, filename = "figure/speciestimeseries_2021.jpg", height = 80, width = 180, units = "mm")
+ggsave(speciestimeseries_comname_2021, filename = "figure/speciestimeseries_2021.jpg", height = 90, width = 250, units = "mm")
 ```
 
 
@@ -655,7 +655,7 @@ speciestimeseries_comname_2023 <- ggplot(TimeSeries_df_2023, aes(x = Month, y = 
 
 
 speciestimeseries_comname_2023
-ggsave(speciestimeseries_comname_2023, filename = "figure/speciestimeseries_2023.jpg", height = 120, width = 180, units = "mm")
+ggsave(speciestimeseries_comname_2023, filename = "figure/speciestimeseries_2023.jpg", height = 120, width = 250, units = "mm")
 ```
 
 
